@@ -1,0 +1,14 @@
+{
+  "name": "vc-pgp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "test": "node generate.js"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "dependencies": {
+    "openpgp": "^5.5.0"
+  }
+}
